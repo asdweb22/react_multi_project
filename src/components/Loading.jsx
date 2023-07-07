@@ -1,0 +1,10 @@
+import React from 'react'
+
+export default function Loading() {
+    return (
+        <div className="Loading">
+            <div></div>
+            <p>Loading...</p>
+        </div>
+    )
+}
